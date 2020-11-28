@@ -3,7 +3,7 @@ import sys
 import os
 import logging
 
-from ConfigParser import SafeConfigParser
+from configparser import SafeConfigParser
 
 from gi.repository import Gtk, GdkPixbuf
 
